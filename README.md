@@ -1,18 +1,20 @@
-
 ### docsify-excalidraw-preview-plugin
 
 docsify文档预览.excalidraw文件的插件
 
-
 * 使用
 1、引入docsify-excalidraw-preview-plugin.js，参考docs的example
-  
+```html
+
+<script src="https://fastly.jsdelivr.net/npm/docsify-excalidraw-preview-plugin@0.1.1/dist/docsify-excalidraw-preview-plugin.js"></script>
+```
+
 ```markdown
 ![docsify-excalidraw-plugin](./file/物联网.excalidraw)
 ```
 
 * 演示地址
-https://herouu.github.io/docsify-excalidraw-preview-plugins
+  https://herouu.github.io/docsify-excalidraw-preview-plugins
 
 #### 已知问题
 

@@ -1,7 +1,7 @@
 {
   "name": "docsify-excalidraw-preview-plugin",
-  "private": true,
-  "version": "0.1.0",
+  "private": false,
+  "version": "0.1.1",
   "type": "module",
   "scripts": {
     "dev": "vite --mode development",
@@ -12,6 +12,7 @@
     "dev:example": "npm run build && cpr dist docs/dist -d && docsify serve docs",
     "example": "npm run build:prod && cpr dist docs/dist -d && docsify serve docs"
   },
+  "main": "dist/docsify-excalidraw-preview-plugin.js",
   "dependencies": {
     "@excalidraw/excalidraw": "^0.17.6",
     "lodash": "^4.17.21",
