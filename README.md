@@ -4,11 +4,15 @@
 docsify文档预览.excalidraw文件的插件
 
 
+* 使用
+1、引入docsify-excalidraw-preview-plugin.js，参考docs的example
+  
 ```markdown
 ![docsify-excalidraw-plugin](./file/物联网.excalidraw)
 ```
 
-![docsify-excalidraw-plugin](./excalidraw.excalidraw)
+* 演示地址
+https://herouu.github.io/docsify-excalidraw-preview-plugins
 
 #### 已知问题
 
