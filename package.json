@@ -9,8 +9,8 @@
     "build:prod": "tsc -b && rimraf dist && vite build --mode production",
     "lint": "eslint .",
     "preview": "vite preview",
-    "dev:example": "npm run build && cpr dist example/dist -d && docsify serve example",
-    "example": "npm run build:prod && cpr dist example/dist -d && docsify serve example"
+    "dev:example": "npm run build && cpr dist docs/dist -d && docsify serve docs",
+    "example": "npm run build:prod && cpr dist docs/dist -d && docsify serve docs"
   },
   "dependencies": {
     "@excalidraw/excalidraw": "^0.17.6",
