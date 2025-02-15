@@ -19,4 +19,4 @@ https://herouu.github.io/docsify-excalidraw-preview-plugins
 此插件基于excalidraw的web版本0.17.6，这个版本不支持中文手写字体，新的master版本可以支持中文手写，且引入了新的字体类型ExcaliFont,
 新版本还没有release，待release后再更新。
 
-s
+
