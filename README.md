@@ -1,5 +1,10 @@
 ### docsify-excalidraw-preview-plugin
 
+
+**excalidraw可以直接导出.excalidraw.svg格式的文件，这个格式包含画布数据，如果使用.excalidraw.svg，那么这个插件就没什么用了**
+
+
+
 docsify文档预览.excalidraw文件的插件
 
 * 使用
